@@ -25,6 +25,9 @@ table 'Measure Table'
 			```
 		lineageTag: 005f9842-b17c-417d-b687-02525dee45a8
 
+	measure 'Feature1 Branch' = "Test Branch Feature 1"
+		lineageTag: f7584c64-57b4-4a64-a7b5-abae8340fa36
+
 	partition 'Measure Table' = m
 		mode: import
 		source =
