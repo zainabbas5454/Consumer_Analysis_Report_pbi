@@ -1,0 +1,22 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-PK
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["Ecommerce_Consumer_Behavior_Analysis_Data","Measure Table","Age Sort Table"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table Ecommerce_Consumer_Behavior_Analysis_Data
+ref table DateTableTemplate_435fee29-a2f9-4f95-bfcb-375aa1bc618a
+ref table LocalDateTable_4980926d-9a9c-47f8-bff8-637d5c18bed3
+ref table 'Measure Table'
+ref table 'Age Sort Table'
+
+ref cultureInfo en-US
+

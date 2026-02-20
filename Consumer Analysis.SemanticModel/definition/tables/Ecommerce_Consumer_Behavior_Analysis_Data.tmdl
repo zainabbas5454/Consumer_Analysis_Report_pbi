@@ -1,0 +1,278 @@
+table Ecommerce_Consumer_Behavior_Analysis_Data
+	lineageTag: 4e537d8c-4700-42b9-b379-8b0acc353f36
+
+	column Customer_ID
+		dataType: string
+		lineageTag: a222bb02-334a-49ad-8b0f-2ccaa185dd2a
+		summarizeBy: none
+		sourceColumn: Customer_ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Age
+		dataType: int64
+		formatString: 0
+		lineageTag: 4774376a-c009-450f-ad09-d1dd8a485b84
+		summarizeBy: sum
+		sourceColumn: Age
+
+		annotation SummarizationSetBy = Automatic
+
+	column Gender
+		dataType: string
+		lineageTag: 058335e9-9eef-4d34-b736-e664d01388d3
+		summarizeBy: none
+		sourceColumn: Gender
+
+		annotation SummarizationSetBy = Automatic
+
+	column Income_Level
+		dataType: string
+		lineageTag: 64a4dfd2-3242-4532-8dba-1e0b9e61ba55
+		summarizeBy: none
+		sourceColumn: Income_Level
+
+		annotation SummarizationSetBy = Automatic
+
+	column Marital_Status
+		dataType: string
+		lineageTag: 8d5f0b7f-a96b-4cca-a1ea-4b4f41668e8e
+		summarizeBy: none
+		sourceColumn: Marital_Status
+
+		annotation SummarizationSetBy = Automatic
+
+	column Education_Level
+		dataType: string
+		lineageTag: 51275b6e-b84f-403f-8507-c1e10ee4b500
+		summarizeBy: none
+		sourceColumn: Education_Level
+
+		annotation SummarizationSetBy = Automatic
+
+	column Occupation
+		dataType: string
+		lineageTag: e1891f70-e3a5-4eee-beb2-370a2fed9f76
+		summarizeBy: none
+		sourceColumn: Occupation
+
+		annotation SummarizationSetBy = Automatic
+
+	column Location
+		dataType: string
+		lineageTag: d77932a1-a005-4a85-9826-488787e20028
+		summarizeBy: none
+		sourceColumn: Location
+
+		annotation SummarizationSetBy = Automatic
+
+	column Purchase_Category
+		dataType: string
+		lineageTag: ebf9adf3-c4ee-4eaa-8c97-cf01229a7077
+		summarizeBy: none
+		sourceColumn: Purchase_Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column Purchase_Amount
+		dataType: int64
+		formatString: \$#,0.###############;(\$#,0.###############);\$#,0.###############
+		lineageTag: 54323632-a227-4f8c-9c73-e6a048307c32
+		summarizeBy: sum
+		sourceColumn: Purchase_Amount
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+	column Frequency_of_Purchase
+		dataType: int64
+		formatString: 0
+		lineageTag: dae593dc-13f5-4b96-bf5d-c6715987661e
+		summarizeBy: sum
+		sourceColumn: Frequency_of_Purchase
+
+		annotation SummarizationSetBy = Automatic
+
+	column Purchase_Channel
+		dataType: string
+		lineageTag: c197208a-7509-4d5c-828c-2d76ca20cd25
+		summarizeBy: none
+		sourceColumn: Purchase_Channel
+
+		annotation SummarizationSetBy = Automatic
+
+	column Brand_Loyalty
+		dataType: int64
+		formatString: 0
+		lineageTag: 9e63a183-6f86-4046-aa82-1b2836d948b4
+		summarizeBy: sum
+		sourceColumn: Brand_Loyalty
+
+		annotation SummarizationSetBy = Automatic
+
+	column Product_Rating
+		dataType: int64
+		formatString: 0
+		lineageTag: 5b4c7713-9b72-4daf-a358-9f8262234d04
+		summarizeBy: sum
+		sourceColumn: Product_Rating
+
+		annotation SummarizationSetBy = Automatic
+
+	column Time_Spent_on_Product_Research(hours)
+		dataType: double
+		lineageTag: 3062cd0e-c5ba-47fb-8157-038013be4419
+		summarizeBy: sum
+		sourceColumn: Time_Spent_on_Product_Research(hours)
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Social_Media_Influence
+		dataType: string
+		lineageTag: c8c1fd79-c001-46eb-a1c1-59814d350096
+		summarizeBy: none
+		sourceColumn: Social_Media_Influence
+
+		annotation SummarizationSetBy = Automatic
+
+	column Discount_Sensitivity
+		dataType: string
+		lineageTag: 731c58cd-84ec-4614-9187-0f985d717870
+		summarizeBy: none
+		sourceColumn: Discount_Sensitivity
+
+		annotation SummarizationSetBy = Automatic
+
+	column Return_Rate
+		dataType: int64
+		formatString: 0
+		lineageTag: 178d5e3d-c88d-45f1-a835-86bed9f71fd0
+		summarizeBy: sum
+		sourceColumn: Return_Rate
+
+		annotation SummarizationSetBy = Automatic
+
+	column Customer_Satisfaction
+		dataType: int64
+		formatString: 0
+		lineageTag: b6b033ea-f87e-4ba5-ad2c-557fdbbc38c8
+		summarizeBy: sum
+		sourceColumn: Customer_Satisfaction
+
+		annotation SummarizationSetBy = Automatic
+
+	column Engagement_with_Ads
+		dataType: string
+		lineageTag: d3845624-1391-42e8-aea4-8ae91bf9ec46
+		summarizeBy: none
+		sourceColumn: Engagement_with_Ads
+
+		annotation SummarizationSetBy = Automatic
+
+	column Device_Used_for_Shopping
+		dataType: string
+		lineageTag: ae96e1e1-7fe7-4b7a-affa-939fc0836de9
+		summarizeBy: none
+		sourceColumn: Device_Used_for_Shopping
+
+		annotation SummarizationSetBy = Automatic
+
+	column Payment_Method
+		dataType: string
+		lineageTag: 31201120-eeec-4a41-8735-dbd4cb72b579
+		summarizeBy: none
+		sourceColumn: Payment_Method
+
+		annotation SummarizationSetBy = Automatic
+
+	column Time_of_Purchase
+		dataType: string
+		lineageTag: f7d37c82-1db3-4668-bba7-dd121377f08d
+		summarizeBy: none
+		sourceColumn: Time_of_Purchase
+
+		annotation SummarizationSetBy = Automatic
+
+	column Discount_Used
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: abe51d97-1e3f-4fc1-b279-e1c726351526
+		summarizeBy: none
+		sourceColumn: Discount_Used
+
+		annotation SummarizationSetBy = Automatic
+
+	column Customer_Loyalty_Program_Member
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 6a505f29-d6cd-44f8-9574-7be77af232c8
+		summarizeBy: none
+		sourceColumn: Customer_Loyalty_Program_Member
+
+		annotation SummarizationSetBy = Automatic
+
+	column Purchase_Intent
+		dataType: string
+		lineageTag: c6510722-6508-405b-9729-4c563f1710e4
+		summarizeBy: none
+		sourceColumn: Purchase_Intent
+
+		annotation SummarizationSetBy = Automatic
+
+	column Shipping_Preference
+		dataType: string
+		lineageTag: 66728679-a23b-49d6-8ef0-0070b4419bd0
+		summarizeBy: none
+		sourceColumn: Shipping_Preference
+
+		annotation SummarizationSetBy = Automatic
+
+	column Time_to_Decision
+		dataType: int64
+		formatString: 0
+		lineageTag: 0eefe118-5d8e-4a42-9a4c-d0871b176d59
+		summarizeBy: sum
+		sourceColumn: Time_to_Decision
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Purchase Date' = DATEVALUE(Ecommerce_Consumer_Behavior_Analysis_Data[Time_of_Purchase])
+		formatString: Short Date
+		lineageTag: 3d8d01b5-f27c-4e8d-bb57-865369640575
+		summarizeBy: none
+
+		variation Variation
+			isDefault
+			relationship: 5985b345-1f39-457b-b2c8-a9be4a3ed71f
+			defaultHierarchy: LocalDateTable_4980926d-9a9c-47f8-bff8-637d5c18bed3.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Age Bucket' =
+			
+			SWITCH(TRUE(),
+			Ecommerce_Consumer_Behavior_Analysis_Data[Age]>=18 && Ecommerce_Consumer_Behavior_Analysis_Data[Age]<=28 , "18-28",
+			Ecommerce_Consumer_Behavior_Analysis_Data[Age]>=29 && Ecommerce_Consumer_Behavior_Analysis_Data[Age]<=39 , "29-39",
+			Ecommerce_Consumer_Behavior_Analysis_Data[Age]>=40 && Ecommerce_Consumer_Behavior_Analysis_Data[Age]<=50 , "40-50",
+			"50+"
+			)
+		lineageTag: 41589e92-cfde-48a6-bf9f-be2a62929c31
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Ecommerce_Consumer_Behavior_Analysis_Data = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\hp112\OneDrive\Desktop\PBI Test\Consumer Analysis Dashboard\Ecommerce_Consumer_Behavior_Analysis_Data.csv"),[Delimiter=",", Columns=28, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Customer_ID", type text}, {"Age", Int64.Type}, {"Gender", type text}, {"Income_Level", type text}, {"Marital_Status", type text}, {"Education_Level", type text}, {"Occupation", type text}, {"Location", type text}, {"Purchase_Category", type text}, {"Purchase_Amount", type text}, {"Frequency_of_Purchase", Int64.Type}, {"Purchase_Channel", type text}, {"Brand_Loyalty", Int64.Type}, {"Product_Rating", Int64.Type}, {"Time_Spent_on_Product_Research(hours)", type number}, {"Social_Media_Influence", type text}, {"Discount_Sensitivity", type text}, {"Return_Rate", Int64.Type}, {"Customer_Satisfaction", Int64.Type}, {"Engagement_with_Ads", type text}, {"Device_Used_for_Shopping", type text}, {"Payment_Method", type text}, {"Time_of_Purchase", type text}, {"Discount_Used", type logical}, {"Customer_Loyalty_Program_Member", type logical}, {"Purchase_Intent", type text}, {"Shipping_Preference", type text}, {"Time_to_Decision", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,39 @@
+table 'Measure Table'
+	lineageTag: 92cdab3f-4f55-4ba1-88fd-570893ee3e28
+
+	measure 'Total Customers' = DISTINCTCOUNT(Ecommerce_Consumer_Behavior_Analysis_Data[Customer_ID])
+		formatString: #,0
+		lineageTag: 33eb0cd1-5b8e-477f-b242-5ee96a9b6377
+
+	measure 'Total Purchase Amount' = SUM(Ecommerce_Consumer_Behavior_Analysis_Data[Purchase_Amount])
+		formatString: #,0
+		lineageTag: de65a129-44dc-417f-a8e7-47eaece098d6
+
+	measure 'Average Purchase Frequency' = AVERAGE(Ecommerce_Consumer_Behavior_Analysis_Data[Frequency_of_Purchase])
+		formatString: 0.0
+		lineageTag: 232c9a74-5d8e-4481-a9a2-2017b2e02371
+
+	measure 'Average Satisfaction Score' = AVERAGE(Ecommerce_Consumer_Behavior_Analysis_Data[Customer_Satisfaction])
+		formatString: 0.0
+		lineageTag: fc6d3743-4c34-4ef7-8da7-cd9ed1e76d8d
+
+	measure 'Average Time of Decision' = ```
+			
+			VAR _value = ROUND(AVERAGE(Ecommerce_Consumer_Behavior_Analysis_Data[Time_to_Decision]),0)
+			RETURN 
+			CONCATENATE(_value," Days")
+			```
+		lineageTag: 005f9842-b17c-417d-b687-02525dee45a8
+
+	partition 'Measure Table' = m
+		mode: import
+		source =
+				let
+				    Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Column1 = _t]),
+				    #"Changed Type" = Table.TransformColumnTypes(Source,{{"Column1", type text}}),
+				    #"Removed Columns" = Table.RemoveColumns(#"Changed Type",{"Column1"})
+				in
+				    #"Removed Columns"
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,6144 @@
+cultureInfo en-US
+
+	linguisticMetadata =
+			{
+			  "Version": "3.5.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "ecommerce_consumer_behavior_analysis_data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ecommerce consumer behavior analysis data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Ecommerce_Consumer_Behavior_Analysis_Data": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "data": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "analysis data": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "behavior analysis data": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "consumer behavior analysis data": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "ecommerce consumer behavior analysis information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "ecommerce consumer behavior analysis fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "ecommerce consumer behavior analysis info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "ecommerce consumer behavior analysis statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "consumer behavior analysis information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "consumer behavior analysis fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "consumer behavior analysis info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "consumer behavior analysis statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "behavior analysis information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "behavior analysis fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.customer_ID": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Customer_ID"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "customer ID": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Customer_ID": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "customer": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "customer identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "customer identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "customer identifier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "client": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "consumer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "user": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "buyer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "patron": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "purchaser": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "shopper": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.age": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Age"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "age": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "oldness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "stage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "phase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "era": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "epoch": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.452
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.gender": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Gender"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "gender": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "sexuality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "sex": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.income_level": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Income_Level"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "income level": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Income_Level": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "level": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "income quantity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "income threshold": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "threshold": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "income amount": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "income grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "income point": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "income rank": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "income tier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "point": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.marital_status": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Marital_Status"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "marital status": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Marital_Status": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "status": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "marital category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "marital importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "marital prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "marital prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "marital condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "marital class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "marital grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.education_level": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Education_Level"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "education level": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Education_Level": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "level": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "education quantity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "education threshold": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "threshold": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "education amount": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "education grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "education point": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "education rank": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "education tier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "point": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.occupation": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Occupation"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupation": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "profession": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "livelihood": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "vocation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "job": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "work": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "career": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "living": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "employment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "business": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "calling": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.location": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Location"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "location": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "locality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "placement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "scene": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "venue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "address": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "place": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "position": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "setting": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "site": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "spot": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_category": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Purchase_Category"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase category": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Purchase_Category": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "category": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "purchase classification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "classification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "purchase class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "purchase group": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "purchase type": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "purchase grouping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "purchase kind": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "type": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "grouping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_amount": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Purchase_Amount"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase amount": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Purchase_Amount": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "purchase quantity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "purchase volume": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "purchase expanse": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "purchase extent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "purchase sum": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "purchase total": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "purchase aggregate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.frequency_of_purchase": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Frequency_of_Purchase"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "frequency of purchase": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Frequency_of_Purchase": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "frequency": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "incidence of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "occurrence of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "regularity of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "rate of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "incidence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "occurrence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "regularity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_channel": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Purchase_Channel"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase channel": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Purchase_Channel": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "channel": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "purchase station": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "purchase network": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "station": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "network": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "purchase conduit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "purchase waterway": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "conduit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "waterway": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "purchase canal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "purchase strait": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.brand_loyalty": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Brand_Loyalty"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "brand loyalty": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Brand_Loyalty": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "loyalty": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "brand faithfulness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "brand devotion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "brand allegiance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "brand trustworthiness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "brand constancy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "brand reliability": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "brand fidelity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "brand dependability": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "brand steadfastness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "faithfulness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.product_rating": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Product_Rating"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "product rating": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Product_Rating": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "rating": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "artifact rating": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "item rating": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "merchandise rating": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "produce rating": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "product assessment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "product evaluation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "assessment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "evaluation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "product score": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "product grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.time_spent_on_product_research": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Time_Spent_on_Product_Research(hours)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "time spent on product research": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "time spent on product research (hours)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "time spent on product research (hour)": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "Time_Spent_on_Product_Research(hours)": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "duration spent on product research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "interval spent on product research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "moment spent on product research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "period spent on product research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "timetable spent on product research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "time spent on artifact research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "time spent on item research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        },
+			        {
+			          "time spent on merchandise research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        },
+			        {
+			          "time spent on produce research": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        }
+			      ],
+			      "Units": [
+			        "hour"
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.social_media_influence": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Social_Media_Influence"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "social media influence": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Social_Media_Influence": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "influence": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "media influence": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "social media inspiration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "social media stimulus": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "social media encouragement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "social media guidance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "media inspiration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "media stimulus": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "media encouragement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "media guidance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "social media effect": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "social media impact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.discount_sensitivity": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Discount_Sensitivity"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "discount sensitivity": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Discount_Sensitivity": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "sensitivity": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "discount sympathy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "discount kindliness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "discount warmth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "discount thoughtfulness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "sympathy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "kindliness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "warmth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "thoughtfulness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "discount compassion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "discount understanding": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.return_rate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Return_Rate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "return rate": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Return_Rate": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "return degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "return frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "return percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "return ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "return quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "return amount": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "return proportion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.customer_satisfaction": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Customer_Satisfaction"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "customer satisfaction": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Customer_Satisfaction": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "satisfaction": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "client satisfaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "consumer satisfaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "user satisfaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "buyer satisfaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "patron satisfaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "purchaser satisfaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "shopper satisfaction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "customer gratification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "customer consummation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "customer fulfilment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.engagement_with_ads": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Engagement_with_Ads"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "engagement with ads": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "engagement with ad": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "Engagement_with_Ads": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "engagement": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "appointment with ad": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "assignation with ad": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "commitment with ad": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "arrangement with ad": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "meeting with ad": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "rendezvous with ad": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "visit with ad": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "tryst with ad": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "appointment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "assignation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.device_used_for_shopping": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Device_Used_for_Shopping"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "device used for shopping": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Device_Used_for_Shopping": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "stratagem used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "ruse used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "ploy used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "method used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "expedient used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "maneuver used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "trick used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "mean used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "scheme used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "way used for shopping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.payment_method": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Payment_Method"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "payment method": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Payment_Method": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "method": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "payment technique": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "payment system": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "payment manner": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "payment mode": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "technique": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "system": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "manner": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "mode": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "payment way": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "payment process": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.time_of_purchase": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Time_of_Purchase"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "time of purchase": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Time_of_Purchase": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "duration of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "interval of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "moment of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "period of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "timetable of purchase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.discount_used": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Discount_Used"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "discount used": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Discount_Used": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "reduction used": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "markdown used": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "concession used": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "deduction used": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "rebate used": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.customer_loyalty_program_member": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Customer_Loyalty_Program_Member"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "customer loyalty program member": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Customer_Loyalty_Program_Member": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "member": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "program member": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "loyalty program member": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "client loyalty program member": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "consumer loyalty program member": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "user loyalty program member": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "buyer loyalty program member": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "patron loyalty program member": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "purchaser loyalty program member": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "shopper loyalty program member": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "customer loyalty program follower": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "customer loyalty program supporter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "customer loyalty program colleague": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_intent": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Purchase_Intent"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase intent": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Purchase_Intent": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "intent": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "concentrating": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.452
+			          }
+			        },
+			        {
+			          "purchase intention": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.451
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.shipping_preference": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Shipping_Preference"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "shipping preference": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Shipping_Preference": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "preference": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "shipping partiality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "shipping penchant": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "shipping predilection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "shipping fondness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "shipping inclination": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "partiality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "penchant": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "predilection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "fondness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "inclination": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.time_to_decision": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Time_to_Decision"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "time to decision": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Time_to_Decision": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "duration to decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "interval to decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "moment to decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "period to decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "timetable to decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_date": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Purchase Date"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase date": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "purchase moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "purchase period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "VariationSource": "Purchase Date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_date.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "VariationSource": "Purchase Date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "purchase date year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date year": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "purchase date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "purchase yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "purchase moment year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "purchase period year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "period year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_date.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "VariationSource": "Purchase Date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "purchase date quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date quarter": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "purchase date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.846
+			          }
+			        },
+			        {
+			          "purchase qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "date qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        },
+			        {
+			          "purchase moment quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "purchase period quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "period quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_date.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "VariationSource": "Purchase Date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "purchase date month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date month": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "purchase date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "purchase mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "date mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "purchase moment month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "purchase period month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "period month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.purchase_date.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "VariationSource": "Purchase Date",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "purchase day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "purchase date day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date day": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "purchase moment day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "moment day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "purchase period day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "period day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "ecommerce_consumer_behavior_analysis_data.age_bucket": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data",
+			          "ConceptualProperty": "Age Bucket"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "age bucket": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "bucket": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "age pail": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "age container": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "age vessel": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "pail": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "container": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "vessel": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "measure_table": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Measure Table"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "measure table": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "measure tabletop": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "measure bench": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "measure board": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "measure counter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "measure stand": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "measure slab": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "measure desk": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "measure stall": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "measure table top": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "measure spreadsheet": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        }
+			      ]
+			    },
+			    "measure_table.total_customers": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Measure Table",
+			          "ConceptualProperty": "Total Customers"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total customers": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "customers": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "aggregate customer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall customer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "total clientele": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "total patron": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "total client": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "total consumer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "total punter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "clientele": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "patron": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "client": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "measure_table.total_purchase_amount": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Measure Table",
+			          "ConceptualProperty": "Total Purchase Amount"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total purchase amount": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "aggregate purchase amount": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "overall purchase amount": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "total purchase quantity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "total purchase volume": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "total purchase expanse": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "total purchase extent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "total purchase sum": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "total purchase total": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "total purchase aggregate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        }
+			      ]
+			    },
+			    "measure_table.average_purchase_frequency": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Measure Table",
+			          "ConceptualProperty": "Average Purchase Frequency"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "average purchase frequency": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "frequency": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "purchase frequency": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "average purchase incidence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "average purchase occurrence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "average purchase regularity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "purchase incidence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "purchase occurrence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "purchase regularity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "average purchase rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "incidence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "occurrence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "regularity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "Avg Purchase Frequency": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "measure_table.average_satisfaction_score": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Measure Table",
+			          "ConceptualProperty": "Average Satisfaction Score"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "average satisfaction score": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "score": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "satisfaction score": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "average satisfaction notch": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "average satisfaction slash": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "average satisfaction groove": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "average satisfaction nick": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "average satisfaction cut": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "average satisfaction mark": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "satisfaction notch": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "satisfaction slash": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "satisfaction groove": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "satisfaction nick": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "Avg Satisfaction Score": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "measure_table.average_time_of_decision": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Measure Table",
+			          "ConceptualProperty": "Average Time of Decision"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "average time of decision": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "average time": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "average duration of decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "average interval of decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "average moment of decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "average duration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "average interval": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "average moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "average period of decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        },
+			        {
+			          "average timetable of decision": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        },
+			        {
+			          "average period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "average timetable": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "Avg Time of Decision": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "ecommerce_consumer_behavior_analysis_data_purchase_date_date_hierarchy_has_ecommerce_consumer_behavior_analysis_data_purchase_date_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.quarter": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "purchase_date_hierarchies_have_purchase_quarters"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_purchase_date_date_hierarchy_has_ecommerce_consumer_behavior_analysis_data_purchase_date_year": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.year": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "purchase_date_hierarchies_have_purchase_years"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_purchase_date_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "purchase_dates_have_purchase_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_measure_table_average_time_of_decision": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "measure_table.average_time_of_decision": {
+			          "Target": {
+			            "Entity": "measure_table.average_time_of_decision"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "measure_table.average_time_of_decision"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_average_time_of_decision"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_measure_table_average_satisfaction_score": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "measure_table.average_satisfaction_score": {
+			          "Target": {
+			            "Entity": "measure_table.average_satisfaction_score"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "measure_table.average_satisfaction_score"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_average_satisfaction_score"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_measure_table_average_purchase_frequency": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "measure_table.average_purchase_frequency": {
+			          "Target": {
+			            "Entity": "measure_table.average_purchase_frequency"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "measure_table.average_purchase_frequency"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_average_purchase_frequency"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_measure_table_total_purchase_amount": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "measure_table.total_purchase_amount": {
+			          "Target": {
+			            "Entity": "measure_table.total_purchase_amount"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "measure_table.total_purchase_amount"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_total_purchase_amount"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_measure_table_total_customers": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "measure_table.total_customers": {
+			          "Target": {
+			            "Entity": "measure_table.total_customers"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "measure_table.total_customers"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_total_customers"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_age_bucket": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.age_bucket": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.age_bucket"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.age_bucket"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_age_buckets"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_purchase_date": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_purchase_dates"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_time_to_decision": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.time_to_decision": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.time_to_decision"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.time_to_decision"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_time_to_decision"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_shipping_preference": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.shipping_preference": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.shipping_preference"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.shipping_preference"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_shipping_preferences"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_purchase_intent": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_intent": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_intent"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_intent"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_purchase_intents"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_customer_loyalty_program_member": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.customer_loyalty_program_member": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.customer_loyalty_program_member"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.customer_loyalty_program_member"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_customer_loyalty_program_members"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_discount_used": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.discount_used": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.discount_used"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.discount_used"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_discount_used"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_time_of_purchase": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.time_of_purchase": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.time_of_purchase"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.time_of_purchase"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_time_of_purchase"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_payment_method": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.payment_method": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.payment_method"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.payment_method"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_payment_methods"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_device_used_for_shopping": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.device_used_for_shopping": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.device_used_for_shopping"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.device_used_for_shopping"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_device_used_for_shopping"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_engagement_with_ads": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.engagement_with_ads": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.engagement_with_ads"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.engagement_with_ads"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_engagement_with_ads"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_customer_satisfaction": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.customer_satisfaction": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.customer_satisfaction"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.customer_satisfaction"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_customer_satisfactions"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_return_rate": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.return_rate": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.return_rate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.return_rate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_return_rates"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_discount_sensitivity": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.discount_sensitivity": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.discount_sensitivity"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.discount_sensitivity"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_discount_sensitivities"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_social_media_influence": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.social_media_influence": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.social_media_influence"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.social_media_influence"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_social_media_influences"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_time_spent_on_product_research": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.time_spent_on_product_research": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.time_spent_on_product_research"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.time_spent_on_product_research"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_time_spent_on_product_research"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_product_rating": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.product_rating": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.product_rating"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.product_rating"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_product_rating"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_brand_loyalty": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.brand_loyalty": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.brand_loyalty"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.brand_loyalty"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_brand_loyalties"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_purchase_channel": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_channel": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_channel"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_channel"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_purchase_channels"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_frequency_of_purchase": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.frequency_of_purchase": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.frequency_of_purchase"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.frequency_of_purchase"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_frequency_of_purchase"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_purchase_amount": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_amount": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_amount"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_amount"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_purchase_amounts"
+			        },
+			        {
+			          "Adjective": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Adjectives": [
+			              {
+			                "expensive": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Antonyms": [
+			              {
+			                "cheap": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Measurement": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_amount"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "purchase_amount_indicates_how_expensive_ecommerce_consumer_behavior_analysis_data_are"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_purchase_category": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_category": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_category"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_category"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_purchase_categories"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_location": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.location": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.location"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.location"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_locations"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_occupation": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.occupation": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.occupation"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.occupation"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_occupations"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_education_level": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.education_level": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.education_level"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.education_level"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_education_levels"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_marital_status": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.marital_status": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.marital_status"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.marital_status"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_marital_statuses"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_income_level": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.income_level": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.income_level"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.income_level"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_income_levels"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_gender": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.gender": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.gender"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.gender"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_genders"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_age": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.age": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.age"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.age"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_ages"
+			        },
+			        {
+			          "Adjective": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Adjectives": [
+			              {
+			                "old": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Antonyms": [
+			              {
+			                "young": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Measurement": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.age"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "age_indicates_how_old_ecommerce_consumer_behavior_analysis_data_are"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_has_customer_ID": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.customer_ID": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.customer_ID"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.customer_ID"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_have_customer_ID"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_in_location": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.location": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.location"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "Where": {
+			          "Role": "ecommerce_consumer_behavior_analysis_data.location"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.location"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_are_in_locations"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_is_purchased_on_purchase_date": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date"
+			          }
+			        }
+			      },
+			      "SemanticSlots": {
+			        "When": {
+			          "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date"
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Verb": {
+			            "Verbs": [
+			              {
+			                "purchase": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.9,
+			          "ID": "ecommerce_consumer_behavior_analysis_data_are_purchased_on_purchase_dates"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_is_discount_used": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.discount_used": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.discount_used"
+			          }
+			        }
+			      },
+			      "Conditions": [
+			        {
+			          "Target": {
+			            "Role": "ecommerce_consumer_behavior_analysis_data.discount_used"
+			          },
+			          "Operator": "Equals",
+			          "Value": {
+			            "Boolean": [
+			              true
+			            ]
+			          }
+			        }
+			      ],
+			      "Phrasings": [
+			        {
+			          "Adjective": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data"
+			            },
+			            "Adjectives": [
+			              {
+			                "discount used": {
+			                  "State": "Generated"
+			                }
+			              },
+			              {
+			                "discount-used": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ]
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "some_ecommerce_consumer_behavior_analysis_data_are_discount_used_ecommerce_consumer_behavior_analysis_data"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_purchase_date_date_hierarchy_has_ecommerce_consumer_behavior_analysis_data_purchase_date_month": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.month": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "purchase_date_hierarchies_have_purchase_months"
+			        }
+			      ]
+			    },
+			    "ecommerce_consumer_behavior_analysis_data_purchase_date_date_hierarchy_has_ecommerce_consumer_behavior_analysis_data_purchase_date_day": {
+			      "Binding": {
+			        "ConceptualEntity": "Ecommerce_Consumer_Behavior_Analysis_Data"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			          }
+			        },
+			        "ecommerce_consumer_behavior_analysis_data.purchase_date.day": {
+			          "Target": {
+			            "Entity": "ecommerce_consumer_behavior_analysis_data.purchase_date.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "ecommerce_consumer_behavior_analysis_data.purchase_date.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "purchase_date_hierarchies_have_purchase_days"
+			        }
+			      ]
+			    }
+			  }
+			}
+		contentType: json
+

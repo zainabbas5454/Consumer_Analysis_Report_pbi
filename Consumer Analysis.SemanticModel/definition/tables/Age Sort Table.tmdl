@@ -1,0 +1,34 @@
+table 'Age Sort Table'
+	lineageTag: 8191a391-f09f-4c87-a194-109cb4032c60
+
+	column 'Age Bucket'
+		dataType: string
+		lineageTag: 9b6cd429-b90c-4867-82e9-ba4b5f9f6c4e
+		summarizeBy: none
+		sourceColumn: Age Bucket
+		sortByColumn: Order
+
+		changedProperty = SortByColumn
+
+		annotation SummarizationSetBy = Automatic
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: eb522803-4ec7-4315-8188-9831d7d306b5
+		summarizeBy: none
+		sourceColumn: Order
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Age Sort Table' = m
+		mode: import
+		source =
+				let
+				    Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i45WMrTQNbJQ0lEyVIrViVYystQ1tgTyjMA8EwNdUwMgzxjMMzXQBrJNlGJjAQ==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [#"Age Bucket" = _t, Order = _t]),
+				    #"Changed Type" = Table.TransformColumnTypes(Source,{{"Age Bucket", type text}, {"Order", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

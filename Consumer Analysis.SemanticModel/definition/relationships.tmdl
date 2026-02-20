@@ -1,0 +1,9 @@
+relationship 5985b345-1f39-457b-b2c8-a9be4a3ed71f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ecommerce_Consumer_Behavior_Analysis_Data.'Purchase Date'
+	toColumn: LocalDateTable_4980926d-9a9c-47f8-bff8-637d5c18bed3.Date
+
+relationship d557a4e8-77c8-0069-3d78-92d0885739a1
+	fromColumn: Ecommerce_Consumer_Behavior_Analysis_Data.'Age Bucket'
+	toColumn: 'Age Sort Table'.'Age Bucket'
+
